@@ -1,0 +1,25 @@
+.jumbotron{
+    color:white;
+     font-family: "Times New Roman", Times, serif;
+     font-style:italic;
+    background-image: url("https://lh3.googleusercontent.com/-wXurxYtprQs/Wvrjzh_u-0I/AAAAAAAAACM/CStx2OcBC0E1JetCgZSMpL_h9xUE4rhIgCK8BGAs/s148/alEksmallface.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
+
+body{
+    background-color:Purple;
+    color:white;
+}
+
+img.profilePic {
+                width: 250px;
+                border-style: inset;
+            
+                
+            }
+
+input{
+    color:black
+}
